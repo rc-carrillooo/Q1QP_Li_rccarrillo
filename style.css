@@ -381,6 +381,8 @@ div{
     border-radius: 5%;
     display: inline-block;
     width: 40vw;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.3vw;
 
 }
 
@@ -390,6 +392,8 @@ div{
     border-radius: 5%;
     display: inline-block;
     width: 40vw;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 1.3vw;
 }
 
 .reftitle{
